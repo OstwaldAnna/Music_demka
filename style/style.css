@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Hussar Bold";
+    src: url("../resources/fonts/hussar-font/HussarBold-7mRE.otf");
+}
+
+*{
+    font-family: "Hussar Bold";
+    }
+
+#carouselExampleDark .carousel-item img {  
+    object-fit: cover;
+    object-position: center;
+    height:50vh;
+  }
+
+.bg_header{
+    background-color: #0e0101;
+	height: auto;
+}
+
+.msg{
+    margin: 1rem;
+}
+
